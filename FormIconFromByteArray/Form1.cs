@@ -17,7 +17,7 @@ namespace FormIconFromByteArray
         {
             Bitmap bm = new Bitmap(32, 32);
             MemoryStream memStream;
-            string filepath = @"C:\Images\favicon.png";
+            string filepath = @"C:\Images\favicon.ico";
 
 
             using (Stream stream = new FileStream(filepath , FileMode.Open, FileAccess.Read))
