@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormIconFromByteArray", "FormIconFromByteArray\FormIconFromByteArray.csproj", "{22BEC999-A2B8-4E30-9D49-7C4772367AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BEC999-A2B8-4E30-9D49-7C4772367AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BEC999-A2B8-4E30-9D49-7C4772367AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BEC999-A2B8-4E30-9D49-7C4772367AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BEC999-A2B8-4E30-9D49-7C4772367AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6333EC04-3047-4212-8ADB-E08AFB410FC0}
+	EndGlobalSection
+EndGlobal
